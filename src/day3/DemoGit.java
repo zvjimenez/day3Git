@@ -15,4 +15,8 @@ public class DemoGit {
 	
 	
 	String stateOfBirth = "California";
+	
+	
+	String address = "123 Street NW";
+	String name = "Vanessa";
 }
