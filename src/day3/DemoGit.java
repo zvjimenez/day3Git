@@ -12,4 +12,7 @@ public class DemoGit {
 	*/
 	
 	int myAge = 28;
+	
+	
+	String stateOfBirth = "California";
 }
