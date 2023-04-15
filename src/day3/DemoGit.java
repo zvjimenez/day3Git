@@ -10,4 +10,6 @@ public class DemoGit {
 	/* 		
 				Commenting from REMOTE REPOSITORY
 	*/
+	
+	int myAge = 28;
 }
